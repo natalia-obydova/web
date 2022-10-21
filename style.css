@@ -1,0 +1,22 @@
+html {
+    background-color: rgba(116, 165, 189, 0.219);
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+.container {
+    width: 768px;
+    margin: 50px auto 0 auto;
+}
+
+.photo-container {
+    text-align: center;
+}
+
+#p1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(94, 92, 92);
+}
